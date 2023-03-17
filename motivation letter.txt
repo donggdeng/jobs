@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Full Stack Developer position at your company. With four years of experience in Ruby on Rails development, I am confident that I can make a valuable contribution to your team.
+
+Although I haven't had direct experience in Python web development, I am familiar with the language and have a strong willingness to learn. As a Full Stack Developer, I believe that expanding my knowledge in various technologies will enable me to approach challenges from different perspectives and enhance my problem-solving skills.
+
+Working on a product project would be particularly exciting for me as I am passionate about building products that solve real-world problems and bring value to users. I am eager to utilize my existing skills and learn new ones to contribute to your product development process.
+
+My previous work experiences have honed my abilities to work collaboratively in teams, manage projects from start to finish, and write clean and maintainable code. I believe these skills are essential for thriving in a startup environment where fast-paced development and continuous improvement are crucial.
+
+Thank you for taking the time to consider my application. I am excited about the opportunity to contribute to your company and look forward to discussing how I can be a great fit for your team.
+	
